@@ -1,0 +1,29 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="630" fill="#0f172a"></rect>
+
+<text x="600" y="200" font-size="64" text-anchor="middle" fill="#00ADD8" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+go-native-selenium
+</text>
+
+<text x="600" y="270" font-size="32" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+Pure Go WebDriver Client
+</text>
+
+<text x="600" y="380" font-size="28" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif">
+✔ W3C WebDriver Protocol
+</text>
+
+<text x="600" y="420" font-size="28" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif">
+✔ Automatic Browser Version Detection
+</text>
+
+<text x="600" y="460" font-size="28" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif">
+✔ Automatic Driver Download
+</text>
+
+<text x="600" y="520" font-size="24" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+github.com/champiao/go-native-selenium
+</text>
+
+</svg>

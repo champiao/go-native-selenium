@@ -1,5 +1,5 @@
 # go-native-selenium
-
+!['banner'](./banner-go-selenium.svg)
 > Lightweight **native Go implementation of the W3C WebDriver protocol**
 > for modern browser automation.
 
